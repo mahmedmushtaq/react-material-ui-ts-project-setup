@@ -2,6 +2,14 @@
 ```bash
 npm init --y
 ```
+
+```bash
+  "start": "react-scripts start", 
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+```
+
 ```bash
   yarn add @material-ui/core @material-ui/icons @types/react @types/react-router-dom @types/node react react-dom react-redux react-router-dom react-scripts redux redux-logger redux-thunk typescript web-vitals
 ```
@@ -11,6 +19,7 @@ npm init --y
    
     
 ```
+
 
 
 # Pattern Information
